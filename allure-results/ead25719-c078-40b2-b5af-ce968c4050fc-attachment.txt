@@ -1,0 +1,3 @@
+test
+Total price: Total: $49.66
+49.66

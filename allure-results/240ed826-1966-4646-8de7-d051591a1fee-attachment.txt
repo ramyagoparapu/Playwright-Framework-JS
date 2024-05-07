@@ -1,0 +1,10 @@
+test
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+[object Promise]is not available in landing page
+[object Promise]is not available in landing page
+[object Promise]is not available in landing page
+[object Promise]is not available in landing page

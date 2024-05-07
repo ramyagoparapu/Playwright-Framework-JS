@@ -1,0 +1,5 @@
+Promise { <pending> }
+[object Promise]is not available in landing page
+[object Promise]is not available in landing page
+[object Promise]is not available in landing page
+[object Promise]is not available in landing page

@@ -1,0 +1,1 @@
+[object Promise]is not available in landing page

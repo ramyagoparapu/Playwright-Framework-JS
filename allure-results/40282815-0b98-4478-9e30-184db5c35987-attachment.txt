@@ -1,0 +1,4 @@
+An error occurred: locator.textContent: Test timeout of 30000ms exceeded.
+Call log:
+  - waiting for locator('//*[text()="MRF Bat"]')
+

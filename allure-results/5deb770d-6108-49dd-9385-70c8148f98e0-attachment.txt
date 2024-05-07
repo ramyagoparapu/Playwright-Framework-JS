@@ -1,0 +1,5 @@
+MRF Batis not available in landing page
+Sauce Labs Backpackis available in landing page
+Sauce Labs Bike Lightis available in landing page
+Sauce Labs Bolt T-Shirtis available in landing page
+Total price: [object Promise]
